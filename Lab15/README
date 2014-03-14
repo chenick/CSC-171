@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 15
+
+Lab 15 introduced the concept of File I/O in Java, and its applications. The user is queried for the name of a file 2 different ways, depending on the main method used —- via a dialog box through JFileChooser or simply the command line. Another method creates a string of 3 random characters, while another prints it out into the file. Another method reads the content of a file, and squares the random number in each line following the random string.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code. Due to there being 2 main methods, 1 is commented out in order for the program to run.
