@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 7
+
+The assignment of Lab 7 required knowledge of primitive graphics operations, such as drawRect, fillRect, drawOval, drawLine, and drawString. I drew a football field to practice these operations, as well as explore the available font options in Java.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code. A kink occasionally occurs where the window of the drawing appears blank initially, but once resized (even slightly), what was drawn appears.
