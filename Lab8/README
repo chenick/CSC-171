@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 8
+
+The assignment of Lab 8 required knowledge of do-while loops, in order to calculate the maximum, minimum, and average of a list of integers entered. The difference between long and integer types was also discussed in the calculation of factorials, where the difference in type directly effects until what number a factorial can be correctly calculated. For the last section, use with a JFrame and JPanel were practiced, drawing a Cartesian plane that draws its variables from getWidth() and getHeight() in order to automatically resize when the window is resized by the user.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code. Occasionally, there is a kink where the user must resize the window (even just a little bit), to see what was drawn.
