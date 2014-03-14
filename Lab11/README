@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 11
+
+Lab 11 required knowledge of arrays, and went in depth on how Java can be used to manipulate arrays. A method to create a random array was created, and then this array was used to calculate the maximum and minimum value of the elements within the array, as well as a print statement for the array.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
