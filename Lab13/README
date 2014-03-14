@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 13
+
+Lab 13 enhanced knowledge of arrays, by working with two dimensional arrays. Addition and subtraction functions were created for two dimensional arrays, with a challenging feature of working for triangle arrays—with a different number of columns in each row. A function that fills each entry in an array with the same integer was also created, using nested for loops.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
