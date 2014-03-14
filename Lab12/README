@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 12
+
+Lab 12 enhanced knowledge of arrays, by working with two dimensional arrays. Methods that created, manipulated, and printed differently sized 2D arrays were created. Knowledge of return types was also crucial to properly constructing these methods, given that arrays can be of various variable types.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
