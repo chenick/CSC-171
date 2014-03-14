@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 14
+
+Lab 14 is an introduction to listeners, in particular, key listeners. A small rectangle is drawn using methods learned in previous labs, but the color is changed each time the enter key is pressed (by incrementing a variable indicating the element in a 2D array controlling RGB values). The arrow keys also direct the box, by increasing or decreasing the x and y values of where the box is drawn, based on the arrow key pressed.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code. Occasionally, one must move the corner of the drawing window slightly for the original image to be drawn.
