@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 9
+
+Lab 9 required knowledge of methods, and exemplified how the type and quantity of input parameters determine what method is called. This concept of overloading is an essential aspect of method construction, and is an efficient mechanism in interpreting user input.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
