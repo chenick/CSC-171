@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 17
+
+Lab 17 introduces the concept of regular expressions, and requires knowledge of the specific syntax needed for various types of expressions. The program queries the user for information such as their name, and components of their address in order to determine whether the inputs are valid. This is an extremely useful tool when creating forms, as the program would be able to stop users from entering invalid email addresses and other contact information.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code. The only file included is Regex.java.
