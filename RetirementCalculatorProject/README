@@ -1,0 +1,23 @@
+=== Project ===
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+FILE NAMES: RetirementCalculatorProject.java
+
+This program creates a Java applet to calculate retirement savings for the user, based on their many variable inputs.
+
+RetirementCalculatorProject.java - Source code of Retirement Calculator
+
+== Description ==
+The assignment of creating a retirement calculator was left fairly open-ended, which left great opportunity to the imagination. The base features required to be in the calculator consisted of: a starting savings balance, a daily savings amount, interest and inflation rates, current age, retirement age and life expectancy, as well as a bar graph depicting one’s savings over time.
+
+After recently completing a project in a different class focusing primarily on user interface, I wanted to think outside the box of the rigid layouts I have seen. Thus, I used NetBeans, rather than Eclipse, to design the GUI for my retirement calculator. This posed many obstacles for me to overcome in other parts of my code, primarily pertaining to drawing in panels, but the user interface improvement was worth the struggle in other areas for me.
+
+One note to mention is that for calculations pertaining to each day, I decided to use 360 days in each year, to make my calculations more realistic. This is due to the fact that many bonds and financial instruments use this convenient rounding to make interest and dividend calculations easier. I also add savings at the end of each calendar year, to be consistent.
+
+EXTRA CREDIT:
+- Easy-to-use User Interface
+- Daily, Monthly and Annual Savings Options
+- Daily, Monthly and Annual Compounding Options
+
+== Sources ==
+I was recommended by my workshop TA to use a compiler that specializes in user interfaces, and thus, used NetBeans to create my UI. My workshop TA, as well as the TA’s in lab sessions MW 12:30-1:45 and TR 4:50-6:05 were extremely helpful in troubleshooting different problems I experienced throughout the creation of my calculator.
