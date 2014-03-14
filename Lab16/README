@@ -1,0 +1,9 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 16
+
+Lab 16 introduces the concept of layouts, working with Flow Layouts, Grid Layouts, and Border Layouts. Each layout was created to include 4 or 5 buttons, in order to see how the layout actually works. A fourth layout was created where, in the place of buttons, the previous three layouts were constructed but unfortunately I could not figure out how to debug the error.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
+
+Sources: The textbook and Oracle Javadocs were extremely helpful
