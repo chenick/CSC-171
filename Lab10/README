@@ -1,7 +1,5 @@
 NAME: Charles Henick
 CLASS: CSC171 FALL 2013
-LAB SESSION: MW 12:30-1:45PM
-TA NAME: Mark Mullock
 ASSIGNMENT NUMBER: 10
 
 Lab 10 required knowledge of methods, and further explored the utilization of loops and conditional statements in returning a specific data type. Arrays were introduced in order to print out the reverse of a number input. In this method, after the input integer is converted to a string, a for loop stores each character in the string in an array, whose elements can then be concatenated in reverse order.
