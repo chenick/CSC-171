@@ -1,7 +1,5 @@
 NAME: Charles Henick
 CLASS: CSC171 FALL 2013
-LAB SESSION: TR 6:15-7:30PM
-TA NAME: --
 ASSIGNMENT NUMBER: 5
 
 The assignment of Lab 5 required knowledge of while loops, and the proper way to utilize them. The user was queried for their favorite food (a string) and how often they eat the food (an integer), and the while loop performed different actions based on the user's response. A gradebook was also created to calculate a student's average grade, given an unspecified number of test scores.
