@@ -1,0 +1,7 @@
+NAME: Charles Henick
+CLASS: CSC171 FALL 2013
+ASSIGNMENT NUMBER: 3
+
+The assignment of Lab 3 required knowledge on how classes, objects and instance variables relate to one another. Accessor and mutator methods were required in creating multiple instance variables, of string and numeric varieties. A separate test file with a main method was required, in order to see how it can interact with the original file.
+
+This code can be run in Eclipse, where it was written, or in another similar program which is able to compile Java code.
